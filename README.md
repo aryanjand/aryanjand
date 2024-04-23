@@ -18,9 +18,6 @@
 <br/>  
  
 
-## Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Puser=aryanjand&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/aryanjand" target="_blank">
